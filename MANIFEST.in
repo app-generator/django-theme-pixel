@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+recursive-include theme_material_kit/static *
+recursive-include theme_material_kit/templates *
+recursive-include docs *
