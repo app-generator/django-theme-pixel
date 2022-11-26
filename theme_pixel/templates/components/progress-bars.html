@@ -1,0 +1,24 @@
+{% extends 'layouts/base.html' %}
+{% load static %}
+
+
+{% block content %}
+    <main>
+        {% include 'includes/pre-loader.html' %}
+
+        <!-- Hero -->
+        <div class="section-header pb-6 bg-primary text-white">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-md-8 text-center">
+                        <h1 class="display-3 mb-4">Progress Bars</h1>
+                        <p class="lead mb-5">Progress components are built with two HTML elements, some CSS to set the width, and a few attributes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- End of Hero -->
+        {% include 'includes/components/_progress-bars.html' %}
+    </main>
+{% endblock content %}

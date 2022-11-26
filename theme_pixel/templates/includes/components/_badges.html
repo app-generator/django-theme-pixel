@@ -1,0 +1,18 @@
+<!-- Section -->
+<div class="section section-md">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 mb-5">
+                <a href="#" class="badge bg-primary">Primary</a>
+                <a href="#" class="badge bg-secondary">Secondary</a>
+                <a href="#" class="badge bg-tertiary">Tertiary</a>
+                <a href="#" class="badge bg-gray">Gray</a>
+                <a href="#" class="badge bg-success">Success</a>
+                <a href="#" class="badge bg-danger">Danger</a>
+                <a href="#" class="badge bg-warning text-dark">Warning</a>
+                <a href="#" class="badge bg-info">Info</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End of Section -->
