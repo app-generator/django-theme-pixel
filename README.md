@@ -109,19 +109,19 @@ $ python manage.py runserver # default port 8000
 
 **Pixel Lite** is a free and open-source [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) based user interface kit featuring over 80 fully coded UI elements and example pages that will help you prototype and build a website for your next project.
 
-![Django Theme Pixel - Freelancer page, product designed by Themesberg, coded by AppSeed.](https://user-images.githubusercontent.com/51070104/204097202-00f62bf0-d32c-4249-a36e-3e929db369a8.jpg)
-
-<br />
-
-> [Django Theme Pixel](https://github.com/app-generator/django-theme-pixel) - `About Page`
-
 ![Django Theme Pixel - About US page, product designed by Themesberg, coded by AppSeed.](https://user-images.githubusercontent.com/51070104/204097260-64e4db26-0096-46e5-90f7-24974ff40487.jpg)
 
 <br />
 
-> [Django Theme Pixel](https://github.com/app-generator/django-theme-pixel) - `UI Component`
+> [Django Theme Pixel](https://github.com/app-generator/django-theme-pixel) - `Freelancer Page`
 
-![Django Theme Pixel - BS5 UI Component, product designed by Themesberg, coded by AppSeed.](https://user-images.githubusercontent.com/51070104/204097275-6083c64a-d95f-4566-9742-f65f2746e60a.jpg)
+![Django Theme Pixel - Freelancer page, product designed by Themesberg, coded by AppSeed.](https://user-images.githubusercontent.com/51070104/204097202-00f62bf0-d32c-4249-a36e-3e929db369a8.jpg)
+
+<br />
+
+> [Django Theme Pixel](https://github.com/app-generator/django-theme-pixel) - `Contact US`
+
+![Django Theme Pixel - Contact, product designed by Themesberg, coded by AppSeed.](https://user-images.githubusercontent.com/51070104/204097603-72a670aa-5ba2-4749-8b18-4655e6728d19.jpg)
 
 <br />
 
