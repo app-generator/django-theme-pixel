@@ -20,7 +20,7 @@ Modern template for **Django** coded on top of **Pixel Lite**, an open-source `B
 
 ## Why `Django Pixel Lite`
 
-- Modern `Bootstrap 5` Design
+- Modern [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Design
 - `Responsive Interface`
 - `Minimal Template` overriding
 - `Easy integration`
