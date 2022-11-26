@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [1.0.0] 2022-11-26
+### Changes
+
+- STABLE_VERSION
+- All UI Kits pages integrated
+- Fully compatible with `Django.contrib.AUTH`
+- `Registration` page included
+
 ## [0.0.3] 2022-11-26
 ### Changes
 
