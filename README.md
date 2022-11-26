@@ -10,7 +10,7 @@ Modern template for **Django** coded on top of **Pixel Lite**, an open-source `B
 
 - [Django Theme Pixel](https://django-pixel-lite.appseed-srv1.com/) - LIVE Demo
 - [Django Theme Pixel](https://github.com/app-generator/django-theme-pixel_p) - `playground project`
-- UI Kit: [Pixel UI Kit](https://github.com/themesberg/pixel-bootstrap-ui-kit) `v4.1.0`
+- UI: **Pixel Lite** `v4.1.0` by Themesberg
 
 <br />
 
