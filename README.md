@@ -1,6 +1,6 @@
 # [Django Theme Pixel](https://appseed.us/product/pixel-bootstrap/django/)
 
-Modern Theme for **Django** that covers authentication pages (registration included) crafted on top of **[Pixel Lite](https://appseed.us/product/pixel-bootstrap/django/)**, an open-source `Bootstrap 5` design from `Themesberg`.
+Modern Theme for **Django** that covers authentication pages (registration included) crafted on top of **[Pixel Bootstrap 5](https://appseed.us/product/pixel-bootstrap/django/)**, an open-source `Bootstrap` design from `Themesberg`.
 
 > Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
@@ -8,7 +8,7 @@ Modern Theme for **Django** that covers authentication pages (registration inclu
 
 **Links & Resources**
 
-- [Django Theme Pixel](https://appseed.us/product/pixel-bootstrap/django/) - `Product page`
+- [Django Pixel Bootstrap 5](https://appseed.us/product/pixel-bootstrap/django/) - `Product page`
   - `Features`: Fully-configured, `CI/CD` via Render
 - UI Kit: `Pixel Lite` (Bootstrap 5) by Themesberg
 - **Sections Covered**: 
