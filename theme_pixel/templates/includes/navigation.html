@@ -142,10 +142,15 @@
                   </li>
               </ul>
           </div>
-          <div class="d-flex align-items-center">
-              <a target="_blank" href="https://github.com/app-generator/django-theme-pixel" class="btn btn-outline-gray-100 d-none d-lg-inline me-md-3">
-                <span class="fas fa-book me-2"></span> Docs</a>
-              <a target="_blank" href="https://pypi.org/project/django-theme-pixel/" class="btn btn-tertiary"><i class="fas fa-cloud-download-alt me-2"></i> Download</a>
+          <div class="d-flex align-items-center">              
+            {% if request.user.is_authenticated %}
+                <a href="{% url 'logout' %}"
+                   class="btn btn-outline-gray-100 d-none d-lg-inline me-md-3"><span class="fas fa-sign-out-alt me-2"></span> Logout</a>            
+            {% else %}
+                <a href="{% url 'login' %}"
+                    class="btn btn-outline-gray-100 d-none d-lg-inline me-md-3"><span class="fas fa-sign-in-alt me-2"></span> Sign IN</a>            
+            {% endif %}
+              <a target="_blank" href="https://appseed.us/product/pixel-bootstrap/django/" class="btn btn-tertiary"><i class="fas fa-cloud-download-alt me-2"></i> Download</a>
               <button class="navbar-toggler ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbar_global" aria-controls="navbar_global" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
               </button>
