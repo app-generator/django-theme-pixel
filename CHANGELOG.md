@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.4] 2024-11-21
+### Changes
+
+- [Django Pixel UI](https://app-generator.dev/docs/products/django-libs/theme-pixel.html) - Documentation & Support Links
+- [Django Pixel UI](https://app-generator.dev/product/pixel-bootstrap/django/) - The product that uses the library
+- [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html) - Learn how to code **Django** Projects
+
 ## [1.0.3] 2023-02-09
 ### Changes
 
