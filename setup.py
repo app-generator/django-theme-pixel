@@ -7,8 +7,8 @@ with open(os.path.join(os.path.dirname(__file__), 'README.md')) as readme:
 os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
-name='django-theme-pixel',
-version='1.0.4',
+name='django_theme_pixel',
+version='1.0.5',
 zip_safe=False,
 packages=find_packages(),
 include_package_data=True,

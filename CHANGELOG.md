@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.5] 2024-11-21
+### Changes
+
+- Normalize package name
+  - [PEP 625](https://peps.python.org/pep-0625/) Compliance
+
 ## [1.0.4] 2024-11-21
 ### Changes
 
