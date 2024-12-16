@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.6] 2024-12-16
+### Changes
+
+- Mention [Django App Generator - Material UI KIT](https://app-generator.dev/tools/django-generator/material-kit/)
+
 ## [1.0.5] 2024-11-21
 ### Changes
 
