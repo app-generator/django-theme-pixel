@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.7] 2025-02-13
+### Changes
+
+- Update Links (minor change)
+
 ## [1.0.6] 2024-12-16
 ### Changes
 
